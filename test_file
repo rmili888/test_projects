@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Test Page</title>
+</head>
+<body>
+<p><strong>MAA Subcontractor Add Invoice</strong></p>
+<video id="video" controls preload="metadata" style="width: 50%">
+   <source src="Vendors/Training_Videos/MAA_Subcontractor_Add_Invoice/Add_Invoice.mp4" type="video/mp4">
+   <track label="English" kind="subtitles" srclang="en" src="Vendors/Training_Videos/MAA_Subcontractor_Add_Invoice/Add_Invoice.vtt" default>
+</video>
+</body>
+</html>
